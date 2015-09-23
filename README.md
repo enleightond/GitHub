@@ -1,2 +1,3 @@
 # GitHub
 Here's a repo, my first of many!
+There's so much i need to learn...
